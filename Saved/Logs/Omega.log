@@ -537,3 +537,14 @@ LogInit: Object subsystem initialized
 [2017.08.19-15.05.39:411][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2017.08.19-15.05.39:411][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
 [2017.08.19-15.05.40:960][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.19-15.10.04:681][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.08.19-15.10.06:246][881]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.08.19-15.10.10:854][149]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.19-15.10.40:165][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2017.08.19-15.10.40:619][922]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.19-15.10.40:714][922]LogSavePackage: Save=58.81ms
+[2017.08.19-15.10.40:714][922]LogSavePackage: Moving '../../../../../../GameProjects/Unreal Projects/Omega/Saved/ThirdPersonExampleMapD81BD5D54BAA09CFAD547C98B7A1D0DE.tmp' to '../../../../../../GameProjects/Unreal Projects/Omega/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.08.19-15.10.40:718][922]LogSavePackage: Display: Finished SavePackage ../../../../../../GameProjects/Unreal Projects/Omega/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.08.19-15.10.40:882][922]LogSavePackage: Save=151.39ms
+[2017.08.19-15.10.40:882][922]LogSavePackage: Moving '../../../../../../GameProjects/Unreal Projects/Omega/Saved/ThirdPersonExampleMap_BuiltData2966B1B74799135DCC1E9BAE82714BF6.tmp' to '../../../../../../GameProjects/Unreal Projects/Omega/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.08.19-15.10.40:883][922]LogSavePackage: Display: Finished SavePackage ../../../../../../GameProjects/Unreal Projects/Omega/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
